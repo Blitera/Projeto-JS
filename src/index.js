@@ -1,1 +1,2 @@
-console.log("teste");
+let nome = "Icaro";
+console.log(nome);
