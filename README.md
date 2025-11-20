@@ -1,4 +1,6 @@
-## CÓDIGO JAVASCRIPT (RANKING HEROS)
-Código simples feito em JavaScript para um desafio de projeto.
+## DESAFIOS DE PROJETO (FUNDAMENTOS)
+Esse repositorio tem como objetivo armazenar os objetos concluidos relacionados ao curos de fundamentos da programacao.
 
-O código tem como objetivo criar um sistema de ranking entre heróis, subdividindo-os em níveis de experiência.
+Aqui estao concluidos os seguintes desafios:
+-rankear herois
+-saldo de vitoria de herois
